@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MEAN-stack technologies.**
 
-- 👯 I’m looking to collaborate on **all of my projects which has issues.**
+- 👯 I’m looking to collaborate on **all of my projects having issues.**
 
 - 💬 Ask me about **Java, TS, Angular, MongoDB, Docker, NodeJS etc.**
 
