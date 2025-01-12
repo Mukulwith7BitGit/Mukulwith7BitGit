@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukulwith7bitgit" alt="mukulwith7bitgit" /></a> </p>
 
-- 🔭 I’m currently working on [Tele-Chat App](https://github.com/Mukulwith7BitGit/Tele-Chat)
+- 🔭 I’m currently working on [Loan-Ease App](https://github.com/Mukulwith7BitGit/loan-ease)
 
 - 🌱 I’m currently learning **MEAN-stack technologies.**
 
